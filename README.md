@@ -19,7 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | <a href= "https://docs.google.com/document/d/1_N01O3Q-jxtdYIm8N6d8FnevcBEabFA_hZyMhZhzfB8/edit">Network Analysis using Anaconda</a>|
 | Data Analysis/ Feature Engineering         | <a href="https://docs.google.com/document/d/16j9IiOwzi0sjw2NXSStOTVIeSzGSI-R6vWKEeHi-73Q/edit">Logistics Regression for Predictive Analysis</a>|
 | Visual Cryptography      | <a href="https://docs.google.com/document/d/1AOsENtc7xKljg3SH81kBnh4C6wr6KlVr7le1HZ7nTqU/edit">Visual Cryptography</a>|
-| Vulnerabilty Management                  | <a href="https://docs.google.com/document/d/1Mr-EAj582k3IrsCo2srYhnYP4gohh6gyyjULHgyfZo8/edit">Risk Assesment for Python: Bandit</a>|
+| Policy Development and Compliance                  | <a href="https://docs.google.com/document/d/1mmJeMBmpnbzUr_XhWcLBShcP6H0KGcZp/edit">Governance Compliance and Risk Managment</a>|
 | Risk Managment  | <a href="https://docs.google.com/document/d/1D_KSpVxfebsT11QcMv_VbyjjS93-j8Fs/edit">Risk Management Using Clearwater Compliance IRM Analysis</a>|
 
 ## Tools
